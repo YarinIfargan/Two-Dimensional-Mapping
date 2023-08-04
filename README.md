@@ -6,7 +6,8 @@ Final project as part of an introduction to embedded software and applications c
 software, and robotics, based on an article from Delhi Technological University for Women. We developed a tool that controls a mobile robot, receives information, processes it, and presents a mapping of the environment. 
 * we had to implement two main programs - an embedded software that defines the movement of the robot, receives the data from the sensor, processes it, and sends it to the computer via Bluetooth, and also a user interface that receives the data, store it, and finally build the mapping.
 
-![image](https://github.com/YarinIfargan/Two-Dimensional-Mapping/assets/76708251/92718238-deb6-41cd-9732-fb9c38719697)
+![image](https://github.com/YarinIfargan/Two-Dimensional-Mapping/assets/76708251/33a4d6c3-62a1-4755-a339-fb97b42ba9b6)
+
 
 
 
